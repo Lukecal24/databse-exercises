@@ -13,4 +13,5 @@ CREATE TABLE albums
     PRIMARY KEY (id)
 )
 
-INSERT INTO albums(artist, name, release_date, sales, genre) VALUES('Playboi Carti', 'Whole Lotta Red', '2020-12-25', 80.00, 'Rap');
+SELECT * FROM albums;
+
