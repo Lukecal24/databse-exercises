@@ -20,3 +20,9 @@ VALUES
     ('Led Zeppelin', 'Led Zeppelin IV', 1971, 'Rock', 37.0),
     ('Nirvana', 'Nevermind', 1991, 'Grunge, Alternative rock', 16.7),
     ('Celine Dion', 'Falling into You', 1996, 'Pop', 32.0 );
+
+
+
+# INSERT INTO albums (artist, name, release_date, genre, sales)
+# VALUES
+#     ('Playboi Carti', 'Whole Lotta Red', 2020, 'Rap', 81.2)
